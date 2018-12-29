@@ -5,7 +5,6 @@ python3 generate_polygon.py blank.png
 
 Output polygon image saved as output.jpg
 
-Science-Birds level             |  Angry Birds level
 :-------------------------:|:-------------------------:
 ![](/Examples/1.jpg) | ![](/Examples/2.jpg)
 ![](/Examples/3.jpg) | ![](/Examples/4.jpg)
