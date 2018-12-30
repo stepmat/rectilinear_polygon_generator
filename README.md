@@ -7,5 +7,5 @@ Output polygon image saved as output.jpg
 
 .|.
 :-------------------------:|:-------------------------:
-![](/Examples/1.jpg) | ![](/Examples/2.jpg)
-![](/Examples/3.jpg) | ![](/Examples/4.jpg)
+![](/Examples/example_1.jpg) | ![](/Examples/example_2.jpg)
+![](/Examples/example_3.jpg) | ![](/Examples/example_4.jpg)
